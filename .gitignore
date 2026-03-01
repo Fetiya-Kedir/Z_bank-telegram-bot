@@ -1,18 +1,41 @@
-# Environment secrets
+# ----- Python build artifacts -----
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# ----- Test / coverage -----
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# ----- Logs -----
+*.log
+
+# ----- Jupyter -----
+.ipynb_checkpoints/
+
+# ----- MyPy / type checking -----
+.mypy_cache/
+.dmypy.json
+
+# ----- Ruff / formatting -----
+.ruff_cache/
+
+# ----- Environment / tooling -----
+.env.*
+!.env.example
 .env
 
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
 
-# Virtual environments
-venv/
-.env/
+# ----- Local database / sqlite -----
+*.sqlite3
+*.db
 
-# VS Code settings (optional)
-.vscode/
-
-# OS files
-.DS_Store
-Thumbs.db
+# ----- Node (for webapp tooling if added later) -----
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
