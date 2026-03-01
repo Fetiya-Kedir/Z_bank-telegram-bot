@@ -9,6 +9,7 @@ from bot.handlers.language import language_callback
 from bot.handlers.menu import menu_callback
 from bot.handlers.start import start_command
 from bot.utils.logger import setup_logging
+from bot.handlers.nav import nav_callback
 
 logger = logging.getLogger(__name__)
 
@@ -25,6 +26,8 @@ def build_app() -> Application:
     # Callbacks
     app.add_handler(CallbackQueryHandler(language_callback, pattern=r"^lang:"))
     app.add_handler(CallbackQueryHandler(menu_callback, pattern=r"^menu:"))
+    app.add_handler(CallbackQueryHandler(nav_callback, pattern=r"^nav:"))
+
 
     return app
 

@@ -12,7 +12,11 @@ TEXTS: Dict[str, Dict[str, str]] = {
         "BTN_SUPPORT": "☎ Contact Support",
         "BTN_ABOUT": "ℹ About",
         "UNKNOWN": "Sorry, I didn't understand that. Use /start to begin.",
-    },
+        "BTN_BACK_MAIN": "⬅ Main Menu",
+        "BTN_CHANGE_LANG": "🌐 Language",
+        "WELCOME_NAME": "Welcome, {name}. Please choose your language:",
+    },# Add inside each language dict:
+    
     "am": {
         "WELCOME": "እንኳን ደህና መጡ። ቋንቋ ይምረጡ፦",
         "LANG_SAVED": "ቋንቋው ወደ አማርኛ ተቀይሯል።",
@@ -22,6 +26,9 @@ TEXTS: Dict[str, Dict[str, str]] = {
         "BTN_SUPPORT": "☎ ድጋፍ አግኝ",
         "BTN_ABOUT": "ℹ ስለ ባንኩ",
         "UNKNOWN": "ይቅርታ፣ አልገባኝም። /start ብለው ይጀምሩ።",
+        "BTN_BACK_MAIN": "⬅ ዋና ምናሌ",
+        "BTN_CHANGE_LANG": "🌐 ቋንቋ",
+        "WELCOME_NAME": "እንኳን ደህና መጡ፣ {name}። ቋንቋ ይምረጡ፦",
     },
     "om": {
         "WELCOME": "Baga nagaan dhuftan. Afaan filadhaa:",
@@ -32,6 +39,9 @@ TEXTS: Dict[str, Dict[str, str]] = {
         "BTN_SUPPORT": "☎ Deeggarsa argadhu",
         "BTN_ABOUT": "ℹ Waa'ee baankii",
         "UNKNOWN": "Dhiifama, hin hubanne. /start jedhuun jalqabi.",
+        "BTN_BACK_MAIN": "⬅ Gara Baafata",
+        "BTN_CHANGE_LANG": "🌐 Afaan",
+        "WELCOME_NAME": "Baga nagaan dhuftan, {name}. Afaan filadhaa:",
     },
 }
 

@@ -19,24 +19,35 @@ async def language_callback(update: Update, context: ContextTypes.DEFAULT_TYPE) 
     if not query:
         return
 
-    await query.answer()  # Acknowledge the callback to Telegram
+    await query.answer()  # acknowledge callback
 
     user = update.effective_user
     if not user:
         return
 
     data = query.data or ""
-    # Expected format: "lang:am"
+
+    # Expected: lang:am
     parts = data.split(":", maxsplit=1)
     if len(parts) != 2:
-        await query.edit_message_text(t("en", "UNKNOWN"))
+        await query.edit_message_text(
+            text=t("en", "UNKNOWN")
+        )
         return
 
     lang = parts[1].strip()
+
     if lang not in SUPPORTED:
-        await query.edit_message_text(t("en", "UNKNOWN"))
+        await query.edit_message_text(
+            text=t("en", "UNKNOWN")
+        )
         return
 
+    # Save language preference
     set_language(user.id, lang)
-    await query.edit_message_text(t(lang, "LANG_SAVED"))
-    await query.message.reply_text(t(lang, "MAIN_MENU"), reply_markup=main_menu_keyboard(lang))
+
+    # Edit current message into Main Menu (clean UI)
+    await query.edit_message_text(
+        text=f"{t(lang, 'LANG_SAVED')}\n\n{t(lang, 'MAIN_MENU')}",
+        reply_markup=main_menu_keyboard(lang),
+    )
