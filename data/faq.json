@@ -1,0 +1,324 @@
+{
+  "categories": [
+    {
+      "id": "br",
+      "title": {
+        "en": "Branch Services",
+        "am": "የቅርንጫፍ አገልግሎቶች",
+        "om": "Tajaajila Damee Irraa"
+      },
+      "items": [
+        {
+          "id": "br_q1",
+          "q": {
+            "en": "I want to open an account from abroad.",
+            "am": "ከውጭ አገር አካውንት መክፈት እፈልጋለሁ።",
+            "om": "Biyya alaa irraa akkaawuntii banuun barbaada."
+          },
+          "a": {
+            "en": "To become a customer, please download the United.et application or visit the United.et website. Select Zamzam Bank from the listed financial institutions and complete the online form with your personal details.",
+            "am": "ደንበኛ ለመሆን እባክዎ የ United.et መተግበሪያን ያውርዱ ወይም የ United.et ድህረ ገጽን ይጎብኙ። ከተዘረዘሩት የፋይናንስ ተቋማት ውስጥ ዛምዛም ባንክን ይምረጡ እና የመስመር ላይ ቅጹን ከግል ዝርዝሮችዎ ጋር ይሙሉ።",
+            "om": "Maamila ta’uuf maaloo application United.et buufadhaa ykn marsariitii United.et daawwadhaa. Dhaabbilee faayinaansii tarreeffaman keessaa Zamzam Bank filachuun unka onlaayinii odeeffannoo dhuunfaa keessanii waliin guutaa."
+          }
+        },
+        {
+          "id": "br_q2",
+          "q": {
+            "en": "What documents are required to open an account from abroad?",
+            "am": "ከውጭ አገር አካውንት ለመክፈት ምን ሰነዶች ያስፈልጋሉ?",
+            "om": "Biyya alaa irraa akkaawuntii banuuf sanadoota akkamii barbaachisa?"
+          },
+          "a": {
+            "en": "Ethiopian nationals with a valid foreign work permit must provide an Ethiopian passport and residence permit (Green Card). Individuals of Ethiopian origin with foreign citizenship should present a passport from their country of residence.",
+            "am": "ህጋዊ የውጭ ሀገር የስራ ፍቃድ ያላቸው ኢትዮጵያውያን ፓስፖርት እና የመኖሪያ ፍቃድ (አረንጓዴ ካርድ) ማቅረብ አለባቸው። የውጭ አገር ዜግነት ያላቸው ትውልደ ኢትዮጵያውያን ከመኖሪያ አገራቸው ፓስፖርት ማቅረብ አለባቸው።",
+            "om": "Lammiileen Itoophiyaa hayyama hojii biyya alaa seera qabeessa ta’e qaban paaspoortii fi hayyama jireenyaa Itoophiyaa (Green Card) kennuu qabu. Namoonni madda Itoophiyaa ta’an lammummaa biyya alaa qaban paaspoortii biyya jiraatan irraa dhiyaachuu qabu."
+          }
+        },
+        {
+          "id": "br_q3",
+          "q": {
+            "en": "Can I send money to Zamzam Bank from abroad?",
+            "am": "ከውጪ ወደ ዘምዘም ባንክ ገንዘብ መላክ እችላለሁ?",
+            "om": "Biyya alaa irraa gara Baankii Zamzam qarshii erguu danda'aa?"
+          },
+          "a": {
+            "en": "Yes, Zamzam Bank provides fast, reliable, and convenient international money transfer services through partners such as Western Union, Cash Go, Ria, and Dahabshil.",
+            "am": "አዎ ዘምዘም ባንክ ፈጣን፣አስተማማኝ እና ምቹ አለምአቀፍ የገንዘብ ማስተላለፊያ አገልግሎቶችን እንደ ዌስተርን ዩኒየን፣ካሽ ጎ፣ሪያ እና ዳሃብሺል ባሉ አጋሮች ያቀርባል። እነዚህ አገልግሎቶች ከችግር ነጻ ናቸው እና ተጨማሪ ስጦታዎችን ወይም ሂባን ሊያካትቱ ይችላሉ።",
+            "om": "Eeyyee, Baankiin Zamzam tajaajila jijjiirraa maallaqaa idil-addunyaa saffisaa, amanamaa fi mijataa ta’e karaa michoota akka Western Union, Cash Go, Ria, fi Dahabshil kenna. Tajaajiloonni kun rakkina kan hin qabnee fi kennaa dabalataa ykn Hiba dabalatee ta’uu danda’u."
+          }
+        },
+        {
+          "id": "br_q4",
+          "q": {
+            "en": "Until what time does Zamzam Bank operate?",
+            "am": "ዘምዘም ባንክ እስከ ስንት ሰዓት ነው የሚሰራው?",
+            "om": "Baankiin Zamzam hanga sa’aatii meeqatti hojjeta?"
+          },
+          "a": {
+            "en": "Zamzam Bank branches operate from 2:00 AM to 12:00 PM Ethiopian time (8:00 AM to 6:00 PM).",
+            "am": "የዘምዘም ባንክ ቅርንጫፎች በኢትዮጵያ ሰዓት ከጠዋቱ 2፡00 እስከ ምሽቱ 12፡00 (ከ8፡00 እስከ 6፡00) ይሰራሉ።",
+            "om": "Dameen Baankii Zamzam akka sa'aatii Itoophiyaatti sa'aatii 2:00 AM hanga 12:00 PM (8:00 AM hanga 6:00 PM) hojjeta."
+          }
+        }
+      ]
+    },
+    {
+      "id": "fin",
+      "title": {
+        "en": "Financing Services",
+        "am": " የገንዘብ ድጋፍ አገልግሎቶች",
+        "om": " Tajaajila Faayinaansii"
+      },
+      "items": [
+        {
+          "id": "fin_q1",
+          "q": {
+            "en": "I want financing. How can I apply?",
+            "am": "ፋይናንስ እፈልጋለሁ. እንዴት ማመልከት እችላለሁ?",
+            "om": "Faayinaansii barbaada. Akkamittan iyyachuu danda'a?"
+          },
+          "a": {
+            "en": " First of all, we would like to thank you for your interest in working with us. We have a wide range of financing options, so please visit our nearest branch or call 9670 to discuss the type of financing you are looking for.",
+            "am": "በቅድሚያ ከኛ ጋር አብረውን ለመስራት ስላሳዩን ፍላጎት ከልብ እናመሰግናል። መልስ፡ብዙ አይነት የፋይናንሲንግ አማራጮች ስላሉን እርስዎ ስለሚፈልጉትን የፋይናንሲንግ አይነት ለመመካከር ወደሚቀርብዎት የባንካችን ቅርንጫፍ በመሄድ ይመካከሩ ወይም በ9670 ይደውሉ ።",
+            "om": "Duraan dursinee fedhii nu waliin hojjechuuf qabdaniif galata guddaa qabna. Filannoo faayinaansii bal’aa qabna, kanaaf maaloo damee keenya dhiyoo jiru daawwadhaa ykn 9670 bilbilaa gosa faayinaansii barbaaddan irratti mari’adhaa"
+          }
+        },
+        {
+          "id": "fin_q2",
+          "q": {
+            "en": "I am a diaspora customer. Can I get financing to purchase a car or a house?",
+            "am": "ዲያስፖራ ነኝ መኪና ወይም ቤት በብድር እንድትገዙልኝ ፈልጌ ነበር?",
+            "om": "Ani maamila diyaaspooraadha. Konkolaataa ykn mana bitachuuf faayinaansii argachuu nan danda’aa?"
+          },
+          "a": {
+            "en": "Yes. First, open a ZamZem Bank account with United.et, then make a deposit of 15% to 20% for the type of financing you want. Our bank is focused on helping diasporas have permanent properties in their country, so it will quickly facilitate the financing process for you.",
+            "am": "መጀመሪያ በ United.et የዘምዘም ባንክ አካውንት ይክፈቱ ከዚያም ለሚፈልጉት የፋይናንሲንግ አይነትከ 15% እስከ20% ተቀማጭ ካደርጉ ባንካችን ዲያስፖራዎች በአገራቸው ቋሚ ንብረት እንዲኖራቸው ለማገዝ ትኩረት ሰጥቶ እየሰራ ስለሆነ በፍጥነት የፋይናንሲንግ ሂደቱን ያመቻችልዎታል።",
+            "om": "Eeyyee. Jalqaba United.et irratti herrega ZamZem Bank banadhaa, sana booda gosa faayinaansii barbaaddaniif %15 hanga %20 kuufamaa. Baankiin keenya diyaaspooroonni biyya isaanii keessatti qabeenya dhaabbataa akka qabaatan gargaaruu irratti kan xiyyeeffate waan ta'eef, adeemsa faayinaansii dafee isiniif mijeessa."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ans",
+      "title": {
+        "en": "Ansar Digital Financing",
+        "am": "አንሳር ዲጂታል ፋይናንስ",
+        "om": "Ansar Faayinaansii Dijiitaalaa "
+      },
+      "items": [
+        {
+          "id": "ans_q1",
+          "q": {
+            "en": "What are the requirements to qualify for Ansar Digital Financing?",
+            "am": "ለአንሳር ዲጂታል ፋይናንሲንግ ተጠቃሚ ለመሆን የሚያስፈልጉ ነገሮች ምንድን ናቸው?",
+            "om": "Faayinaansii Dijiitaalaa Ansar argachuuf ulaagaaleen barbaachisan maali?"
+          },
+          "a": {
+            "en": "You must have a Zamzam Bank account, renewed ID card, valid business license, and TIN number.",
+            "am": "ብቁ ለመሆን፡ ሊኖርዎት የሚገባው\nየዛምዛም ባንክ ሂሳብ\nየታደሰ መታወቂያ ካርድ\nየሚሰራ የንግድ ፍቃድ\nየግብር ከፋይ መለያ ቁጥር (TIN)",
+            "om": "Ulaagaa guutuuf, kanneen armaan gadii qabaachuu qabda\nHerrega Baankii Zamzam\nWaraqaa Eenyummaa haaromfame\nHayyama Daldalaa sirrii ta’e\nLakkoofsa Eenyummaa Kaffalaa Gibiraa (TIN)"
+          }
+        },
+        {
+          "id": "ans_q2",
+          "q": {
+            "en": "What is the financing limit for men under Ansar Digital Financing?",
+            "am": "በ አንሳር ዲጂታል ፋይናንስ ስር የወንዶች የፋይናንስ ገደብ ስንት ነው?",
+            "om": "Ansar Digital Financing jalatti dhiirotaaf daangaan faayinaansii haagamiidha?"
+          },
+          "a": {
+            "en": "Financing ranges from 30,000 to 100,000 Birr.",
+            "am": "ዘምዘም ባንክ ለወንዶች ከ30,000 እስከ 100,000 ብር ፋይናንስ ይሰጣል። ",
+            "om": "Baankiin Zamzam dhiirotaaf faayinaansii Birrii kuma 30 hanga kuma 100 ni kenna."
+          }
+        },
+        {
+          "id": "ans_q3",
+          "q": {
+            "en": "What is the financing limit for women under Ansar Digital Financing?",
+            "am": "ዘምዘም ባንክ በአንሳር ዲጂታል ፋይናንሲንግ ለሴቶች እስከ ስንት ብር ያበድራል?",
+            "om": "Daangaan faayinaansii dubartootaaf Ansar Digital Financing jalatti haagamiidha?"
+          },
+          "a": {
+            "en": "Financing ranges from 10,000 to 500,000 Birr.",
+            "am": "ዘምዘም ባንክ ለሴቶች ከ10,000 እስከ 500,000 ብር ፋይናንስ ይሰጣል።",
+            "om": "Baankiin Zamzam dubartootaaf faayinaansii Birrii kuma 10 hanga kuma 500 ni kenna."
+          }
+        },
+        {
+          "id": "ans_q4",
+          "q": {
+            "en": "Why is my Ansar Digital Financing limit showing as zero?",
+            "am": "ለምንድነው የእኔ አንሳር ዲጂታል ፋይናንስ ገደብ ዜሮ የሚያሳየው?",
+            "om": "Daangaan Faayinaansii Dijiitaalaa Ansar koo maaliif zeerootti agarsiisaa jira?"
+          },
+          "a": {
+            "en": "This may happen due to low account activity, new account status, a recent business license, or incomplete documents.",
+            "am": "ይህ ምናልባት ከሚከተሉት ምክንያቶች በአንዱ ወይም በብዙ ምክንያት ሊሆን ይችላል።\nበዘምዘም ባንክ አካውንት ያለው ትራንዛክሽን በጣም አነስተኛ መሆን\nየዘምዘም ባንክ አካውንትዎ አዲስ መሆን\nንግድ ፍቃድዎ ከ6 ወር በታች መሆን\nተያያዥ ዶክመንቶች ግልፅ አልመሆን",
+            "om": "Kunis sababoota armaan gadii keessaa tokko ykn isaa ol ta’uu danda’a: \nHerrega Baankii Zamzam keessan keessatti sochii daldalaa gadi aanaa\nAkkaawuntii keessan haaraa dha\nHayyamni daldalaa kee ji’a jaha hin guunne\nSanadoonni barbaachisan tokko tokko ifa miti ykn guutuu miti"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mob",
+      "title": {
+        "en": "Mobile Banking",
+        "am": "የሞባይል ባንኪንግ ",
+        "om": "Tajaajila Baankii Moobaayilaa"
+      },
+      "items": [
+        {
+          "id": "mob_q1",
+          "q": {
+            "en": "How can I use Zamzam Mobile Banking?",
+            "am": "የዘምዘም ሞባይል ባንኪንግ እንዴት መጠቀም እችላለሁ?",
+            "om": "Zamzam Mobile Banking akkamitti fayyadamuu danda’a?"
+          },
+          "a": {
+            "en": "Download the Zamzam Digital application and visit your nearest branch to activate the service.",
+            "am": "የዘምዘም ዲጂታል አፕሊኬሽን ከፕሌይ ስቶር ወይም አፕ ስቶር ያውርዱ ከዛም በአቅራቢያዎ የሚገኘውን የዘምዘም ቅርንጫፍ ይጎብኙ የዲጂታል ባንኪንግ አገልግሎትን ለማስጀመር።",
+            "om": "Appilikeeshinii Zamzam Digital Play Store ykn App Store irraa buufadhaa, sana booda damee Zamzam isinitti dhihoo jiru daawwachuun tajaajila baankii dijitaalaa keessan hojiirra oolchuuf."
+          }
+        },
+        {
+          "id": "mob_q2",
+          "q": {
+            "en": "How can I get a Mobile Banking activation code?",
+            "am": "የሞባይል ባንኪንግ ገቢር ኮድ እንዴት ማግኘት እችላለሁ?",
+            "om": "Akkamitti akitiveshiin koodii Baankii Moobaayilaa argachuu danda’a?"
+          },
+          "a": {
+            "en": "Dial *600# and select Activation Code or visit a branch if you are not a USSD user.",
+            "am": "USSD ተጠቃሚዎች፡ *600# ይደውሉ →የማግበር ኮድ ይምረጡ →ኤስኤምኤስ ይቀበሉ\nUSSD ያልሆኑ ተጠቃሚዎች፡ለእርዳታ ቅርንጫፍን ይጎብኙ ",
+            "om": "Fayyadamtoonni USSD: *600# bilbilaa → akitiveshiin koodii filadhu → Ergaa gabaabaa fudhadhu\nFayyadamtoota USSD hin taane: Gargaarsa argachuuf dameedhiyyenya kessannitti argamu daawwadhaa."
+          }
+        },
+        {
+          "id": "mob_q3",
+          "q": {
+            "en": "What is an MPIN?",
+            "am": "MPIN ምንድን ነው?",
+            "om": "MPIN maali?"
+          },
+          "a": {
+            "en": "A four-digit Mobile Personal Identification Number used to secure your mobile banking transactions.",
+            "am": "ያልተፈቀዱ የገንዘብ ዝውውሮችን ለመከላከል ተጨማሪ ደህንነትን የሚሰጥ ባለአራት አሃዝ የሞባይል የግል መለያ ቁጥር።",
+            "om": "Lakkoofsa Eenyummaa Dhuunfaa Moobaayilaa dijiitii afur qabuu fi maallaqa hayyama malee akka hin dabarreef wabii dabalataa kennu."
+          }
+        },
+        {
+          "id": "mob_q4",
+          "q": {
+            "en": "How much money can I transfer daily through Mobile Banking?",
+            "am": "በየቀኑ በሞባይል ባንኪንግ ምን ያህል ገንዘብ ማስተላለፍ እችላለሁ?",
+            "om": "Guyyaa guyyaan maallaqa meeqa karaa Mobile Banking dabarsuu danda'a?"
+          },
+          "a": {
+            "en": "Up to 500,000 Birr between Zamzam accounts, up to 15,000 Birr to other banks and 30,000 Birr to telebirr",
+            "am": "ከዘምዘም ወደ ዘምዘም እስከ 500,000 ብር ከዘምዘም ወደ ሌሎች ባንኮች እስከ 15,000 ብር፣ ወደ ቴሌ ብር 30,000 ብር። ",
+            "om": "Herrega Zamzam gidduutti hanga Birrii kuma 500, baankii biroof hanga Birrii kuma 15, telebirriif ammoo Birrii kuma 30"
+          }
+        },
+        {
+          "id": "mob_q5",
+          "q": {
+            "en": "Does Zamzam Mobile Banking work abroad?",
+            "am": "የዘምዘም ሞባይል ባንኪንግ ውጭ ሀገር ይሰራል?",
+            "om": "Zamzam Mobile Banking biyya alaa ni hojjetaa?"
+          },
+          "a": {
+            "en": "Yes, it works anywhere with an internet connection.",
+            "am": "አዎ፣ ንቁ የበይነመረብ ግንኙነት እስካለ ድረስ።",
+            "om": "Eeyyee, hanga interneetiin hojiirra jirutti."
+          }
+        },
+        {
+          "id": "mob_q6",
+          "q": {
+            "en": "Is it mandatory to go to the same branch to activate Mobile Banking?",
+            "am": "የሞባይል ባንኪንግን ለማስጀመር ወደዚያው ቅርንጫፍ መሄድ ግዴታ ነውን?",
+            "om": "Mobile Banking activate gochuuf gara damee tokko deemuun dirqamaa?"
+          },
+          "a": {
+            "en": "No, activation can be done at any Zamzam Bank branch.",
+            "am": "አይ፡ በማንኛውም የዛምዛም ባንክ ቅርንጫፍ ማግኘት ይቻላል።",
+            "om": "Lakki, activation damee Baankii Zamzam kamiyyuu irratti hojjetamuu danda'a."
+          }
+        }
+      ]
+    },
+    {
+      "id": "atm",
+      "title": {
+        "en": "ATM Services",
+        "am": "የኤቲኤም አገልግሎቶች ",
+        "om": "Tajaajila ATM"
+      },
+      "items": [
+        {
+          "id": "atm_q1",
+          "q": {
+            "en": "I withdrew money but the ATM did not dispense cash.",
+            "am": "ኤ ቲ ኤም ብር ሳወጣ ካሽ ሳይሰጠኝ ከአካውንቴ ቀንሷል። ",
+            "om": "Maallaqa baasee garuu ATM maallaqa hin kennine "
+          },
+          "a": {
+            "en": "Visit the nearest branch, fill out a dispute form, and call 9670.",
+            "am": "ወደሚቀርብዎት የባንካችን ቅርንጫፍ በመሄድ ፎርም ሞልተው ያመልክቱ በ9670 በመደወል ለክትትል እንዲመቸን  ማመልከትዎን ያሳውቁን።",
+            "om": "Maaloo damee sinnitti dhihoo jiru daawwadhaa, formii ATM disputii guutaa, hordoffiidhaaf 9670 bilbiluun iyyata keessan nu beeksisaa."
+          }
+        },
+        {
+          "id": "atm_q2",
+          "q": {
+            "en": "ATM did not return my card or cash.",
+            "am": "ኤ ቲ ኤም ብር ሳወጣ ካሽ ሳይሰጠኝ ካርዱንም አልመለሰልኝም",
+            "om": "ATM kaardii ykn maallaqa koo hin deebisne "
+          },
+          "a": {
+            "en": "If it happened at a Zamzam ATM, visit the same branch to retrieve your card.",
+            "am": "የዘምዘም ማሽን ከሆነ ማሽኑን የተጠቀሙበት ቅርጫፋችን ላይ በስራ ሰዓት በአካል በመሄድ ወይም በስልክ በመደወል ካርድዎ ተመላሽ ይሆንልወታ። ከስራ ሰዓት ውጭ ከሆነ ኤ ቲ ኤሙን የተጠቀሙ ቅርንጫፋችን ሲከፈት የኤ ት ኤም ካርድዎ ተመላሽ ይሆንልዎታል።",
+            "om": "Yoo ATM Zamzam irratti ta'e, kaardii keessan fudhachuuf dameedhuma sana daawwadhaa."
+          }
+        }
+      ]
+    },
+    {
+      "id": "shr",
+      "title": {
+        "en": "Share Information",
+        "am": "የአክሲዮን መረጃ",
+        "om": "Oddeffanno Aksiyoonaa"
+      },
+      "items": [
+        {
+          "id": "shr_q1",
+          "q": {
+            "en": "What is the minimum number of shares I can buy?",
+            "am": "ዝቅተኛ  መግዛት የሚቻለው   የሼር  ብዛት ስንት ነው? ",
+            "om": "Lakkoofsi aksiyoonaa xiqqaan ani bitachuu danda'u haagamidhaa?"
+          },
+          "a": {
+            "en": "Minimum purchase is 10 shares (10,000 Birr).",
+            "am": "10 ሼር (በአስር ሺህ ብር)",
+            "om": "Bittaa xiqqaan aksiyoona 10 (Birr 10,000) ta’a."
+          }
+        },
+        {
+          "id": "shr_q2",
+          "q": {
+            "en": "How can I buy shares while abroad?",
+            "am": "በውጭ አገር ሆኜ አክሲዮን እንዴት መግዛት እችላለሁ?",
+            "om": "Biyya alaa osoon jiruu akkamittan aksiyoona bitachuu danda’a?"
+          },
+          "a": {
+            "en": "Visit the Zamzam Bank website and fill out your personal information.",
+            "am": "የዘምዘም ባንክን ድህረ ገጽ ይጎብኙ እና የግል መረጃዎን ይሙሉ።",
+            "om": "Marsaa Baankii Zamzam daawwachuun odeeffannoo dhuunfaa keessan guutaa "
+          }
+        }
+      ]
+    }
+  ]
+}

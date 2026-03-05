@@ -7,6 +7,9 @@ from bot.i18n import t
 from bot.keyboards.inline import nav_keyboard
 from bot.state import get_language
 
+from bot.handlers.faq import show_faq_categories
+from bot.handlers.branch import show_branch_menu
+
 
 async def menu_callback(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     query = update.callback_query
@@ -26,10 +29,18 @@ async def menu_callback(update: Update, context: ContextTypes.DEFAULT_TYPE) -> N
 
     choice = parts[1].strip()
 
-    # Phase 1 placeholder pages (later we replace with real FAQ/Branch)
+    # ✅ Route FAQ to real FAQ flow
+    if choice == "faq":
+        await show_faq_categories(update, lang)
+        return
+
+    # ✅ Route Branch Finder to real Branch menu
+    if choice == "branch":
+        await show_branch_menu(update, lang)
+        return
+
+    # Placeholder pages (still future phases)
     page_title = {
-        "faq": "FAQ",
-        "branch": "Branch Finder",
         "support": "Contact Support",
         "about": "About the Bank",
     }.get(choice, choice)
